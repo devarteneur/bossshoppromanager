@@ -1,5 +1,5 @@
-This is a helper project built with *React* 
-for a the spigot plugin [https://www.spigotmc.org/resources/bossshoppro-the-most-powerful-chest-gui-shop-menu-plugin.222/](BossShopPro)
+This is a helper project built with **React** and [rsuit](https://rsuitejs.com/)
+for a the spigot plugin [BossShopPro](https://www.spigotmc.org/resources/bossshoppro-the-most-powerful-chest-gui-shop-menu-plugin.222/)
 
 ## Available Scripts
 
