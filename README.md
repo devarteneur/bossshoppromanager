@@ -26,3 +26,8 @@ You will also see any lint errors in the console.
 
 Will build the app into the /build directory.
 You may deploy it on any http server to expose it online.
+
+### Sample Screenshot
+
+![Main Function](https://raw.githubusercontent.com/devarteneur/bossshoppromanager/master/public/github-screenshot.png)
+
